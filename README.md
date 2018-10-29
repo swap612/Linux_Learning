@@ -6,7 +6,7 @@ Some linux commands
   If you get any dependencies error, run the following command to install the required dependencies:
 <br>**sudo apt-get -f install**
 <br>
-2. Unzipping a file <br>
+2. Extracting files <br>
    a. For .zip files, <br>
        <b>unzip zipFileName -d destnation_path</b> <br>
    b. For tar.gz files <br>
