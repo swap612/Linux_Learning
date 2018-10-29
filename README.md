@@ -7,5 +7,7 @@ Some linux commands
 <br>**sudo apt-get -f install**
 <br>
 2. Unzipping a file <br>
-for .zip files, 
-**unzip zipFileName -d destnation_path** <br>
+   a. For .zip files, <br>
+   **unzip zipFileName -d destnation_path** <br>
+   b. For tar.gz files <br>
+   **tar xvzf tarName -C destination_path** <br>
