@@ -8,6 +8,6 @@ Some linux commands
 <br>
 2. Unzipping a file <br>
    a. For .zip files, <br>
-   **unzip zipFileName -d destnation_path** <br>
+       <b>unzip zipFileName -d destnation_path</b> <br>
    b. For tar.gz files <br>
-   **tar xvzf tarName -C destination_path** <br>
+      <b>tar xvzf tarName -C destination_path</b> <br>
