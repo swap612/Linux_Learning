@@ -3,7 +3,7 @@ Assignment 1.1
 ## Producer consumer problem using point-to-point communication primitives 
 
 ## Steps to run:
-**NOTE:** For automated plot generation, please install the matplotlib
+**NOTE**: For automated plot generation, please install the python3 and matplotlib
 
 1. execute run script from terminal, it will run the program and generate the plots automatically  
      ./run.sh
