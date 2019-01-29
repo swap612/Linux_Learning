@@ -1,17 +1,14 @@
-Assignment 1.2
-====
-## Producer consumer problem using MPI Collectives
- 
-## Steps to run:
-**NOTE**: For automated plot generation, please install the python3 and matplotlib
+Assignment 1
+===
 
-1. execute run script from terminal, it will run the program and generate the plots automatically  
-     ./run.sh
+## Homework Problem 1  
+Implemented the validate function txn_t::validate() -> All test cases PASSED
 
-## Logic for Producer Consumer Mapping:
-I have created the new communicator based on color = (myrank / 2)   
-This will assign same color for consecutive ranks in pair of 2, new comm will be like (0,1),(2,3),(4,5).
-So, the data is always send on the same node, no data transfer across the nodes which improve the performance. 
+## Homework Problem 2  
+Implemented the my_validate_block_helper() function. -> All test cases PASSED
 
+I did not violate any honor code to do this assignment. All the code is written by me only.
 
-## Observations from plots:  
+Name: Swapnil Raykar
+RollNo: 18111078
+MTech. CSE
