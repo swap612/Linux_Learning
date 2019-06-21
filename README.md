@@ -19,4 +19,11 @@ Extracting files <br>
    b. For tar.gz files <br>
       <b>tar xvzf tarName -C destination_path</b> <br>
 </li>
+  <li>
+Floating  operations in bash <br>
+  a. use printf
+   <br> Ex: to print 6/7 use <br>
+    printf %.9f\\n "$(( (6 * 1000000000)/7 ))e-9" <br>
+  b. using bc [https://www.linuxjournal.com/content/floating-point-math-bash] 
+  </li>
 </ol>
