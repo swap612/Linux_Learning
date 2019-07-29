@@ -2,7 +2,7 @@
 **Index of Linux kernel releases**  
 [https://mirrors.edge.kernel.org/pub/linux/kernel/]
 
-**Compiling and Installing a linux Kernel**
+**Compiling and Installing a linux Kernel**  
 [https://www.linux.com/learn/intro-to-linux/2018/4/how-compile-linux-kernel-0]
 
 
