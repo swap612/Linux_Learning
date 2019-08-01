@@ -6,8 +6,8 @@
 [https://www.linux.com/learn/intro-to-linux/2018/4/how-compile-linux-kernel-0]
 
 
-<br>
 **Some linux commands**  
+
 <ol>
  <li>
 Installing any software using .deb file<br>
