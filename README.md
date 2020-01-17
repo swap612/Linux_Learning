@@ -35,4 +35,9 @@ Floating  operations in bash <br>
   Getting System information from SMBIOS like cpu, memory, cache, etc.<br>
   <b>dmidecode</b>
   </li>
+  
+  <li>
+ Format specifiers for Printk
+ [https://www.kernel.org/doc/Documentation/printk-formats.txt]
+ </li>
 </ol>
