@@ -40,4 +40,7 @@ Floating  operations in bash <br>
  Format specifiers for Printk
  [https://www.kernel.org/doc/Documentation/printk-formats.txt]
  </li>
+ <li>
+ Building cscope database for large projects [http://cscope.sourceforge.net/large_projects.html]
+ </li>
 </ol>
