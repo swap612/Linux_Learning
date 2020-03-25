@@ -43,4 +43,6 @@ Floating  operations in bash <br>
  <li>
  Building cscope database for large projects [http://cscope.sourceforge.net/large_projects.html]
  </li>
+ <li>Viewing the pdf files in ubuntu - <b>evince</b> 
+ </li>
 </ol>
