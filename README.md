@@ -45,4 +45,7 @@ Floating  operations in bash <br>
  </li>
  <li>Viewing the pdf files in ubuntu - <b>evince</b> 
  </li>
+ <li>Printing newline in bash <br>
+ <b> echo -e " use \n for newline"</b>
+</li>
 </ol>
